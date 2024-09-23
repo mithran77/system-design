@@ -1,0 +1,4 @@
+References:
+
+https://www.geeksforgeeks.org/elevator-system-low-level-design-lld/
+https://www.youtube.com/watch?v=siqiJAJWUVg&ab_channel=ThinkSoftware
