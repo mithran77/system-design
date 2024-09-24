@@ -8,8 +8,8 @@
 - [KISS](https://github.com/mithran77/system-design/blob/main/basics/KISS.md)
 
 ## Systems
-- [Elevator System](https://github.com/mithran77/system-design/blob/main/elevator-system/elevator-system.md)
-- [Parking Lot System](https://github.com/mithran77/system-design/blob/main/parking-lot/parking-lot.md)
+- [Parking Lot](https://github.com/mithran77/system-design/blob/main/parking-lot/parking-lot.md)
+- [Elevator](https://github.com/mithran77/system-design/blob/main/elevator-system/elevator-system.md)
 
 #### Additional Links:
 * https://github.com/tssovi/grokking-the-object-oriented-design-interview/tree/master?tab=readme-ov-file
