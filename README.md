@@ -9,6 +9,7 @@
 
 ## Systems
 - [Parking Lot](https://github.com/mithran77/system-design/blob/main/parking-lot/parking-lot.md)
+- [Vending Machine](https://github.com/mithran77/system-design/blob/main/vending-machine/vending-machine.md)
 - [Elevator](https://github.com/mithran77/system-design/blob/main/elevator-system/elevator-system.md)
 
 #### Additional Links:

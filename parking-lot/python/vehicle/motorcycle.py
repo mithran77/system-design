@@ -1,5 +1,5 @@
-from vehicles.vehicle_type import VehicleType
-from vehicles.vehicle import Vehicle
+from constants.vehicle_type import VehicleType
+from vehicle.vehicle import Vehicle
 
 class MotorCycle(Vehicle):
     def __init__(self, license_plate: str):

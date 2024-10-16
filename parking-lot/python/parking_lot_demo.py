@@ -1,8 +1,8 @@
 from parking_lot import ParkingLot
 from level import Level
-from vehicles.car import Car
-from vehicles.motorcycle import MotorCycle
-from vehicles.truck import Truck
+from vehicle.car import Car
+from vehicle.motorcycle import MotorCycle
+from vehicle.truck import Truck
 
 class ParkingLotDemo:
     def run():

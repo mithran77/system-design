@@ -1,5 +1,5 @@
 from typing import List
-from vehicles.vehicle import Vehicle
+from vehicle.vehicle import Vehicle
 from parking_spot import ParkingSpot
 
 class Level:

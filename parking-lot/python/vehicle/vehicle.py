@@ -1,5 +1,5 @@
 from abc import ABC
-from vehicles.vehicle_type import VehicleType
+from constants.vehicle_type import VehicleType
 
 class Vehicle(ABC):
     def __init__(self, license_plate: str, vehicle_type: VehicleType):
